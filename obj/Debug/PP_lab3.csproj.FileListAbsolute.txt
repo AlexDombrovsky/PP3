@@ -1,0 +1,6 @@
+C:\Users\grabo\source\repos\PP_lab3\bin\Debug\PP_lab3.exe
+C:\Users\grabo\source\repos\PP_lab3\bin\Debug\PP_lab3.pdb
+C:\Users\grabo\source\repos\PP_lab3\obj\Debug\PP_lab3.csprojAssemblyReference.cache
+C:\Users\grabo\source\repos\PP_lab3\obj\Debug\PP_lab3.csproj.CoreCompileInputs.cache
+C:\Users\grabo\source\repos\PP_lab3\obj\Debug\PP_lab3.exe
+C:\Users\grabo\source\repos\PP_lab3\obj\Debug\PP_lab3.pdb
